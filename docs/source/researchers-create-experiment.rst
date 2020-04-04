@@ -148,7 +148,7 @@ purposes without altering any frame definitions.
 Developing your study: how to try it out as you go
 ---------------------------------------------------
 
-When you first create your study, you'll need to click 'Build experiment runner' on your study page and wait 5-10 minutes for your own personal experiment runner to be created. This will "freeze" the code used for your study so that updates to the Lookit experiment runner won't affect how your study works. (You can always update if you want to - see `Updating the frameplayer code <researchers-update-code>`_). You do not need to build the experiment runner again unless you want to update the code it uses.
+When you first create your study, you'll need to click 'Build experiment runner' on your study page and wait 5-10 minutes for your own personal experiment runner to be created. This will "freeze" the code used for your study so that updates to the Lookit experiment runner won't affect how your study works. (You can always update if you want to - see `Updating the frameplayer code <https://lookit.readthedocs.io/en/develop/researchers-update-code.html>`_). You do not need to build the experiment runner again unless you want to update the code it uses.
 
 Once you've built an experiment runner, you can click 'See preview' after saving your study protocol and you will be able to preview your study, exactly as if you were participating with your child. As you write the protocol configuration for your study, you can click 'See preview' again or just refresh the preview window to see how the changes look. 
 
